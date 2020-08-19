@@ -19,35 +19,35 @@ Perform a command injection attack to read a file from the filesystem
 
 Gain administrative access because of broken authentication.
 
-## /challenge
+## /challenge4
 Bypass client side verification
 
-## /challenge
+## /challenge5
 Perform an IDOR attack to read information about the admin user 
 
-## /challenge
+## /challenge6
 Read the source code from a leftover artifact
 
-## /challenge
+## /challenge7
 Enumerate a directory and find a hidden image
 
-## /challenge
+## /challenge8
 Spoof your user agent to bypass protections
 
-## /challenge
+## /challenge9
 Perform an XSS attack to steal the administrator's cookie
 
-## /challenge
+## /challenge10
 Perform a type juggling attack to bypass verification
 
-## /challenge
+## /challenge11
 Perform an SSRF attack to read a forbidden page
 
-## /challenge
+## /challenge12
 Perform a nosql injection to read info about forbidden user
 
-## /challenge
+## /challenge13
 Perform an XXE attack to read a forbidden page
 
-## /challenge
+## /challenge14
 Perform a SQL injection attack to bypass a login form
